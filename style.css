@@ -1,0 +1,59 @@
+body {
+  background-color: LightGoldenRodYellow;
+  text-align: left;
+  }
+
+header {
+  font-family: "times new roman";
+  font-style: italic;
+  text-align: center;
+  border: none;
+}
+
+h2 {
+  text-align: left;
+  text-transform: none;
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 28px;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+.autor, .zdroj, .zanr {
+  text-decoration: underline;
+  font-family: "times new roman";
+  text-align: center
+}
+
+blockquote {
+  font-style: italic;
+}
+
+p {
+    color: black
+    font-weight: normal;
+    margin: 20px;
+    font-size: 1.1em;
+    padding: 5px;
+}
+
+i {
+  line-height: 200%;
+}
+
+footer {
+  text-decoration: underline;
+  font-family: "times new roman";
+  text-transform: uppercase;
+}
+
+#soutez, #pytel, #soutez {
+  float: center;
+  text-align: justify;
+  text-justify: 
+  inter-word;
+}
+
