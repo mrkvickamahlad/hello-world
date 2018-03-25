@@ -1,0 +1,74 @@
+body {
+  background-color: white;
+  text-align: left;
+  }
+
+header {
+  font-family: "arial";
+  font-style: normal;
+  text-align: center;
+  color: black;
+  border: none;
+  background-image: url(https://1.im.cz/onas/files/krasty/png/pes-krasty-seznam-02.png);
+  background-repeat: no-repeat;
+  background-position: 1200px 0px;
+  background-size: 8%;
+  }
+
+h1 {
+	text-align: left; 
+	font-family: "kalam";
+	font-size: 40px;
+	color: black;
+	text-transform: none;
+	text-decoration: none;
+}​
+
+h2 {
+  text-align: left;
+  text-transform: none;
+  text-decoration: none;
+  color: red;
+  font-family: "arial";
+}
+
+.autor, .zdroj, .zanr {
+  text-decoration: none;
+  font-family: "arial";
+  text-align: left;
+  color: black;
+}
+
+blockquote {
+  font-style: normal;
+  text-align: left;
+  color: gray;
+}
+
+p {
+    color: gray
+    font-weight: normal;
+    margin: 20px;
+    font-size: 1.1em;
+    padding: 5px;
+    color: gray
+    font-family: "arial";
+}
+
+footer, h2 {
+  text-decoration: none;
+  font-family: "arial";
+  text-transform: none;
+  color: red;
+  font-size: 30px;
+}
+
+#soutez, #pytel, #soutez, #zaver, #uvod {
+  float: center;
+  text-align: justify;
+  text-justify: 
+  inter-word;
+  color: gray;
+  font-family: "arial";
+}
+
