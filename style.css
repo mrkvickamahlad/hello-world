@@ -1,31 +1,32 @@
 body {
-  background-color: LightGoldenRodYellow;
+  background-color: honeydew;
   text-align: left;
+  font-family: "Arial";
   }
 
 header {
-  font-family: "times new roman";
   font-style: italic;
   text-align: center;
   border: none;
 }
 
 h2 {
-  text-align: left;
-  text-transform: none;
-  text-decoration: underline;
+  text-align: center;
+  text-transform: uppercase;
 }
 
 h1 {
   font-size: 28px;
   text-transform: uppercase;
-  text-decoration: underline;
+  text-decoration: dotted underline;
 }
 
 .autor, .zdroj, .zanr {
-  text-decoration: underline;
-  font-family: "times new roman";
   text-align: center
+}
+
+.autor:hover, .zdroj:hover, .zanr:hover {
+  font-weight: bold;
 }
 
 blockquote {
@@ -46,7 +47,6 @@ i {
 
 footer {
   text-decoration: underline;
-  font-family: "times new roman";
   text-transform: uppercase;
 }
 
